@@ -14,4 +14,4 @@ require('./routes/controller')(app);
 
 app.listen(PORT, function(){
     console.log('Server listening PORT:' + PORT);
-})
+});
